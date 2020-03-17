@@ -1,0 +1,23 @@
+[{
+  "name":"A114","grupo": "DAW2","tutor":15,"materias":["DWES","DWEC","IW","DAW","IE"]
+ },
+ {
+  "name":"A121","grupo": "DAW1","tutor":8,"materias":["PROGRA","BD","SIS","LM","FOL"]
+ },
+ {
+  "name":"A112","grupo": "AUTO1","tutor":5
+ },
+ {
+  "name":"A127","grupo": "ASIR1","tutor":2
+ },
+ {
+  "name":"A114","grupo": "SMR2","tutor":11
+ },
+ {
+  "name":"A128","grupo": "ASIR2","tutor":9,"materias":["IAW","ABD","ASIS","SI","IE"]
+ },
+ {
+  "name":"A125","grupo": "ADM2","tutor":12
+ }
+]
+
