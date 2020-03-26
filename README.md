@@ -13,7 +13,7 @@ $ javac Main.java
 ```
 Ejecutamos
 ```
-java -cp driver.jar:. Main
+java -cp "Nombre driver de mysql".jar:. Main
 ```
 
 ### Prerequisites
@@ -21,7 +21,8 @@ java -cp driver.jar:. Main
 Que cosas necesitamos antes de empezar
 
 ```
-Driver de mysql 
+Driver de mysql
+
 ```
 
 
